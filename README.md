@@ -8,8 +8,8 @@ I'm a Developer focusing on **Playable Ads**, passionate about creating lightwei
 * **Core Skills:** Endless Runner Loop, Object Pooling, Fake Fail Logic, Dynamic CTA
 
 🚀 **Featured Projects:**
-* 🏃‍♀️ [Gate Runner (Math Edition)](Link_chơi_game_trên_itch_io_hoặc_web) - Endless Runner
-* 🗼 [Math Tower](Link_chơi_game) - Puzzle/Hypercasual
+* 🏃‍♀️ [Gate Runner (Math Edition)](https://uwkd.itch.io/gate-runner-playable-ads-demo) - Endless Runner
+* 🗼 [Math Tower](https://uwkd.itch.io/math-tower-playable-ad-portfolio) - Puzzle/Hypercasual
 
 📫 **How to reach me:**
 * 📧 Email: dttrangnb1801@gmail.com
