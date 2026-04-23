@@ -5,7 +5,6 @@ I'm a Developer focusing on **Playable Ads**, passionate about creating lightwei
 🛠 **Tech Stack:**
 * **Game Engines:** Cocos Creator 3.x, Phaser 3, Unity 2D
 * **Languages:** TypeScript, JavaScript, C#, HTML5
-* **Core Skills:** Endless Runner Loop, Object Pooling, Fake Fail Logic, Dynamic CTA
 
 🚀 **Featured Projects:**
 * 🏃‍♀️ [Gate Runner (Math Edition)](https://uwkd.itch.io/gate-runner-playable-ads-demo) - Endless Runner
