@@ -1,6 +1,5 @@
 ### Hi there, I'm Trang 👋
 
-I'm a Developer focusing on **Playable Ads**, passionate about creating lightweight, highly converting interactive experiences.
 
 🛠 **Tech Stack:**
 * **Game Engines:** Cocos Creator 3.x, Phaser 3, Unity 2D
